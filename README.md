@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @areebhammad
 - 👀 I’m interested in design and programming
-- 🌱 I’m currently learning UX design
 - 📫 Reach me at areebhammad@gmail.com
 
 <!---
