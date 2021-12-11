@@ -1,6 +1,5 @@
-<a href="#"><img width="auto" height="auto" src="https://lottiefiles.com/53452-source-code" height="175px"/></a>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://lottiefiles.com/53452-source-code" background="transparent"  speed="1"  style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>
+<a href="#"><img width="auto" height="auto" src="https://iconscout.com/illustration/web-designer-building-website-3724334" height="175px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Areeb Hammad</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
