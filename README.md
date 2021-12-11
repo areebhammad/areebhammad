@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👋 Hi, I’m @areebhammad
+- 👋 Hi, I’m **@areebhammad**
 
 - 👀 I’m interested in design and programming
 
