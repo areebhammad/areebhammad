@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/areebhammad)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://areebhammad.netlify.app/)**
 
 - 📫 Reach me at **areebhammad@gmail.com**
 
