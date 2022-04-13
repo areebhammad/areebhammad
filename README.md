@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in design and programming
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://areebhammad.netlify.app/)**
 
